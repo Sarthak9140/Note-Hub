@@ -87,7 +87,7 @@ PORT	Backend port (default 8080)
 ![Register]('./screenshots/register.png')
 ![Note]('./screenshots/note.png')
 ![Edit]('./screenshots/edit.png')
-![Add]('./Add.png')
+ `![Add](./screenshots/Add.png)`
 
 🙋‍♂️ Author
 Sarthak Singh
