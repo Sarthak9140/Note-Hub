@@ -80,16 +80,21 @@ MONGO_URI	MongoDB connection string
 JWT_SECRET	Secret for JWT auth
 PORT	Backend port (default 8080)
 
-📸 Screenshots
+##📸 Screenshots
 
-![Dashboard]('./screenshots/dashboard.png')
-![Login]('./screenshots/login.png')
-![Register]('./screenshots/register.png')
-![Note]('./screenshots/note.png')
-![Edit]('./screenshots/edit.png')
- `![Add](./screenshots/Add.png)`
+### 🔐 Dashboard Page  
+![Dashboard](./screenshots/dashboard.png)
+### 🔐 Login Page 
+![Login](./screenshots/login.png)
+### 🔐 Register Page 
+![Register](./screenshots/register.png)
+### 🔐 Note 
+![Note](./screenshots/note.png)
+### 🔐 Edit 
+![Edit](./screenshots/edit.png)
+### 🔐 Add Page 
+![Add](./screenshots/Add.png)
 
 🙋‍♂️ Author
 Sarthak Singh
-
 
