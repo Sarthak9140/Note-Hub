@@ -26,6 +26,21 @@ NoteHub is a full-stack note management system built using the MERN stack (Mongo
 
 ---
 
+##📸 Screenshots
+
+### 🔐 Dashboard Page  
+![Dashboard](./screenshots/dashboard.png)
+### 🔐 Login Page 
+![Login](./screenshots/login.png)
+### 🔐 Register Page 
+![Register](./screenshots/register.png)
+### 🔐 Note 
+![Note](./screenshots/note.png)
+### 🔐 Edit 
+![Edit](./screenshots/edit.png)
+### 🔐 Add Page 
+![Add](./screenshots/Add.png)
+
 ## 📦 Project Structure
 
 NoteHub/
@@ -80,20 +95,6 @@ MONGO_URI	MongoDB connection string
 JWT_SECRET	Secret for JWT auth
 PORT	Backend port (default 8080)
 
-##📸 Screenshots
-
-### 🔐 Dashboard Page  
-![Dashboard](./screenshots/dashboard.png)
-### 🔐 Login Page 
-![Login](./screenshots/login.png)
-### 🔐 Register Page 
-![Register](./screenshots/register.png)
-### 🔐 Note 
-![Note](./screenshots/note.png)
-### 🔐 Edit 
-![Edit](./screenshots/edit.png)
-### 🔐 Add Page 
-![Add](./screenshots/Add.png)
 
 🙋‍♂️ Author
 Sarthak Singh
