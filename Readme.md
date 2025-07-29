@@ -60,23 +60,17 @@ cd notehub
 
 Backend Setup
 bash
-Copy
-Edit
 cd Backend
 npm install
 npm run dev
 Create a .env file:
 
-env
-Copy
-Edit
+
 PORT=8080
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_secret_key
+
 Frontend Setup
-bash
-Copy
-Edit
 cd Frontend
 npm install
 npm start
@@ -87,13 +81,13 @@ JWT_SECRET	Secret for JWT auth
 PORT	Backend port (default 8080)
 
 📸 Screenshots
-Dashboard View	Note Card	Note View
+
 ![Dashboard]('./screenshots/dashboard.png')
 ![Login]('./screenshots/login.png')
 ![Register]('./screenshots/register.png')
 ![Note]('./screenshots/note.png')
 ![Edit]('./screenshots/edit.png')
-![Add]('./screenshots/Add.png')
+![Add]('./Add.png')
 
 🙋‍♂️ Author
 Sarthak Singh
