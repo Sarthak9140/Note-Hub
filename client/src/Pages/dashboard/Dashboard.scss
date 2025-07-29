@@ -1,0 +1,32 @@
+.dashboard {
+  padding: 2rem;
+  background-color: #f9fafb;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+
+  .heading {
+    text-align: center;
+    margin-bottom: 2rem;
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+      color: #1f2937;
+    }
+  }
+
+  .notes-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); // 💡 Exactly 3 columns
+    gap: 2rem;
+    padding: 0 2rem;
+
+    @media (max-width: 1024px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (max-width: 640px) {
+      grid-template-columns: 1fr;
+    }
+  }
+}
